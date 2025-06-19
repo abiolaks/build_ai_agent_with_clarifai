@@ -82,5 +82,5 @@ All dependencies are listed in requirements.txt:
 * The app does not store your resume or personal data.
 * For best results, use a well-formatted resume in PDF or DOCX format.
 * License
-MIT License
 
+## The output format in streamlit in display the Educatioin is working as it should will welcome anyone to contribute to it.
